@@ -6,10 +6,10 @@ Este repositório contém a base para o desafio de Site Reliability Engineering 
 
 Para executar o desafio localmente, é necessário ter os seguintes itens instalados na sua máquina:
 
+* Uma linguagem de programação da sua escolha (preferivelmente golang ou python) 
 * Docker (ou outro runtime de containers compatível)
 * Git
 * Um editor de código de sua preferência
-* Uma linguagem de programação da sua escolha (preferivelmente golang ou python) 
 
 **⚠️ Certifique-se de que esses requisitos estejam instalados e funcionando corretamente antes de iniciar o desafio.**
 
