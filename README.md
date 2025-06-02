@@ -1,4 +1,4 @@
-# SRE Challenge
+# SRE Challenge - Teste de programação
 
 Este repositório contém a base para o desafio de Site Reliability Engineering (SRE) da Nsx.
 
