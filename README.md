@@ -1,51 +1,51 @@
-# SRE Challenge - Teste de programação
+# SRE Challenge - Programming Test
 
-Este repositório contém a base para o desafio de Site Reliability Engineering (SRE) da Nsx.
+This repository contains the base for the Site Reliability Engineering (SRE) challenge at Nsx.
 
-## Pré-requisitos
+## Prerequisites
 
-Para executar o desafio localmente, é necessário ter os seguintes itens instalados na sua máquina:
+To run the challenge locally, you must have the following items installed on your machine:
 
-* Uma linguagem de programação da sua escolha (preferivelmente golang ou python) 
-* Docker (ou outro runtime de containers compatível)
-* Git
-* Um editor de código de sua preferência
+* A programming language of your choice (preferably Golang or Python)  
+* Docker (or another compatible container runtime)  
+* Git  
+* A code editor of your choice  
 
-**⚠️ Certifique-se de que esses requisitos estejam instalados e funcionando corretamente antes de iniciar o desafio.**
+**⚠️ Make sure these requirements are installed and working properly before starting the challenge.**
 
-Alternativamente, se você não puder ou preferir não instalar os pré-requisitos localmente, este repositório já está preparado para ser executado via GitHub Codespaces.
+Alternatively, if you can't or prefer not to install the prerequisites locally, this repository is already set up to run via GitHub Codespaces.
 
-## Uso do Devcontainer
+## Using the Devcontainer
 
-O repositório inclui uma pasta .devcontainer/, que define um ambiente de desenvolvimento pré-configurado. Você pode utilizar esse ambiente tanto localmente (com suporte ao Dev Containers no VS Code, por exemplo) quanto diretamente no Codespaces.
+The repository includes a `.devcontainer/` folder, which defines a pre-configured development environment. You can use this environment either locally (with Dev Containers support in VS Code, for example) or directly in Codespaces.
 
-Se você ainda não tiver acesso a um Codespace, podemos fornecer um link para abrir esse repositório em um ambiente pronto para uso, sem precisar configurar nada localmente.
+If you don’t yet have access to a Codespace, we can provide a link to open this repository in a ready-to-use environment without needing to configure anything locally.
 
-## 🧠 O que será feito e o que esperamos
+## 🧠 What to Expect and What We’re Looking For
 
-No dia da entrevista, você receberá um desafio prático ao vivo, que envolve **programação, containers e ambiente Linux**.  
+On the day of the interview, you’ll be given a live, hands-on challenge involving **programming, containers, and a Linux environment**.
 
-Você deverá resolver um problema realista com base em um cenário que será apresentado na hora. A proposta exige que você use **lógica de programação** e ferramentas básicas de sistema para automatizar a coleta e interpretação de informações relevantes do ambiente.
+You will be asked to solve a realistic problem based on a scenario presented at the time. The goal is for you to use **programming logic** and basic system tools to automate the collection and interpretation of relevant environment data.
 
-> **Importante:** o foco não é acertar tudo ou ter uma solução perfeita — queremos entender **como você pensa, investiga e resolve problemas reais de produção.**
+> **Important:** The goal is not to get everything perfect — we want to understand **how you think, investigate, and solve real-world production problems.**
 
-## ✅ O que será avaliado
+## ✅ What Will Be Evaluated
 
-Durante o desafio, vamos observar:
+During the challenge, we will observe:
 
-- 🧩 Sua capacidade de **entender e decompor um problema**
-- 💻 Uso de programação para automatizar tarefas (pode ser Python ou Go)
-- 🔍 Capacidade de **investigar** o estado do sistema e dos containers
-- 🌐 Autonomia para pesquisar ferramentas/bibliotecas úteis
-- 🧼 Clareza, organização e qualidade geral do código
-- 🔄 Seu raciocínio sobre como a solução poderia evoluir (escalabilidade, extensibilidade)
+- 🧩 Your ability to **understand and break down a problem**
+- 💻 Use of programming to automate tasks (Python or Go)
+- 🔍 Ability to **investigate** the state of the system and containers
+- 🌐 Independence in researching tools/libraries
+- 🧼 Clarity, organization, and overall quality of your code
+- 🔄 Your reasoning on how the solution could evolve (scalability, extensibility)
 
-## 📌 Requisitos esperados
+## 📌 Expected Requirements
 
-Esperamos que você:
+We expect you to:
 
-- Tenha familiaridade com ambientes baseados em **Linux e Docker**
-- Saiba usar **comandos básicos de sistema** e **consultar o estado de containers**
-- Consiga escrever um script ou app simples que leia informações e devolva uma **saída estruturada**
-- Use programação estruturada, mesmo que simples, para montar sua solução
-- Pesquise e use bibliotecas conforme necessário, justificando suas escolhas
+- Be familiar with **Linux and Docker-based environments**
+- Know how to use **basic system commands** and **inspect container status**
+- Be able to write a simple script or app that reads information and returns a **structured output**
+- Use structured programming, even if simple, to build your solution
+- Research and use libraries as needed, explaining your choices
