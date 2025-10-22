@@ -49,3 +49,40 @@ We expect you to:
 - Be able to write a simple script or app that reads information and returns a **structured output**
 - Use structured programming, even if simple, to build your solution
 - Research and use libraries as needed, explaining your choices
+
+## 🏗️ Infrastructure Challenge (Second Round)
+
+If you advance to the second round, you'll participate in an **infrastructure-focused discussion and challenge** where we'll dive deep into:
+
+### Core Topics
+
+- **Cloud Infrastructure**: AWS, GCP, Azure architectures and best practices
+- **Infrastructure as Code (IaC)**: Terraform, CloudFormation, Pulumi
+- **GitOps**: Infrastructure deployment and management through Git workflows
+- **Kubernetes**: Container orchestration, deployments, services, and cluster management
+- **CI/CD**: Pipeline design, automation, and deployment strategies
+
+### Key SRE Concepts
+
+We'll discuss essential reliability engineering concepts and practices:
+
+- **Observability**: Monitoring, logging, tracing, and alerting (Prometheus, Grafana, ELK stack)
+- **Reliability Engineering**: SLIs, SLOs, SLAs, and error budgets
+- **Incident Management**: On-call practices, runbooks, postmortems
+- **Capacity Planning**: Resource management, scaling strategies, cost optimization
+- **Security & Compliance**: Infrastructure security, secrets management, compliance as code
+- **Disaster Recovery**: Backup strategies, failover mechanisms, RTO/RPO objectives
+- **Performance**: Load testing, optimization, and tuning
+- **Configuration Management**: Service discovery, feature flags, dynamic configuration
+
+### What We're Looking For
+
+During this round, we want to understand:
+
+- Your experience designing and managing production infrastructure
+- How you approach infrastructure challenges and trade-offs
+- Your knowledge of modern DevOps/SRE tooling and practices
+- Ability to architect scalable, reliable, and maintainable systems
+- Understanding of operational excellence and production readiness
+
+> **Note:** This may include a practical exercise involving infrastructure design, troubleshooting, or implementing IaC solutions
