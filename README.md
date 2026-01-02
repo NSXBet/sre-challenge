@@ -6,7 +6,7 @@ This repository contains the base for the Site Reliability Engineering (SRE) cha
 
 To run the challenge locally, you must have the following items installed on your machine:
 
-* A programming language of your choice (preferably Golang or Python)  
+* A programming language: **Golang** or **Python** — pick the one you're most comfortable with  
 * Docker (or another compatible container runtime)  
 * Git  
 * A code editor of your choice  
@@ -49,6 +49,7 @@ We expect you to:
 - Be able to write a simple script or app that reads information and returns a **structured output**
 - Use structured programming, even if simple, to build your solution
 - Research and use libraries as needed, explaining your choices
+- Use a Docker library to interact with containers programmatically (e.g., `docker` for Python or `github.com/docker/docker/client` for Go)
 
 ## 🏗️ Infrastructure Challenge (Second Round)
 
